@@ -27,7 +27,7 @@ class StudentDashboard extends StatelessWidget {
               children: [
                 CircleAvatar(
                   radius: 35,
-                  backgroundImage: AssetImage('/assets/images.jpg')
+                  backgroundImage: AssetImage('assets/images.jpg')
                 ),
                 SizedBox(width: 16),
                 Column(
